@@ -5,7 +5,19 @@
 This project is a **real-time network monitoring and intrusion detection system** built using **Python, Scapy, and Streamlit**. It captures live network traffic, analyzes protocols and ports, detects anomalies, and visualizes insights through an interactive dashboard.
 
 ---
+## 📸 Screenshots
 
+### 🔐 Login Page
+![Login](screenshots/Dashboard.png)
+
+### 📊 Dashboard Overview
+![Dashboard](screenshots/Dashboard.png)
+
+### 📈 Protocol Distribution
+![Graph](screenshots/Graph.png)
+
+### ⚠️ Alerts
+![Alerts](screenshots/alerts.png)
 ## 🚀 Features
 
 ### 🔍 Network Monitoring
